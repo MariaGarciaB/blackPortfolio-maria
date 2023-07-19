@@ -550,11 +550,11 @@ footer .arriba{
     font-size: 18px;
 }
 
-footer .redes a{
+.redes a{
     transition: .3s;
 }
 
-footer .redes a:hover{
+.redes a:hover{
     background-color: #1CB698;
 }
 
