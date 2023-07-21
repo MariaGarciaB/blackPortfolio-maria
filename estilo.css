@@ -373,7 +373,7 @@ html{
     padding: 20px 0;
 }
 .portfolio .galeria{
-    display: block;
+    display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
 }
