@@ -423,6 +423,10 @@ html{
     color: #2c3034db;
     text-decoration: none;
   }
+
+  .card__proyect-links i:hover{
+    color: #fff;
+}
   
   .card__proyect-links i {
     font-size: 1.5em;
