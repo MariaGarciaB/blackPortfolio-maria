@@ -604,14 +604,8 @@ footer .arriba{
         width: 100%;
     }
 
-    .curriculum .fila{
-        display: block;
-    }
-    .curriculum .fila .col{
-        width: 90%;
-    }
-    .curriculum .fila .derecha{
-        margin-left: 20px;
+    #curriculum.curriculum {
+        display: none;
     }
 
     .portfolio .galeria{
