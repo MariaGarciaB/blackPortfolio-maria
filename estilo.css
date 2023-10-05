@@ -294,10 +294,8 @@ html{
     margin: 0 15px 25px 15px;
 }
 .portfolio .galeria .proyecto img{
-    display: block;
-    height: 350px;
     width: 100%;
-    opacity: 70%;
+    display: block;
 }
 .portfolio .galeria .proyecto .overlay{
     position: absolute;
