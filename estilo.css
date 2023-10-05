@@ -9,6 +9,9 @@ html{
     /* me permite deslizar cuando hago clic en los links del menu */
     scroll-behavior: smooth;
 }
+body{
+    width: 100vw;
+}
 /* MENU */
 .contenedor-header{
     background: #1e2326;
@@ -288,10 +291,11 @@ html{
 }
 
 #descripcion{
+    width: 340px;
     font-size: small;
     color: #fff;
     text-align: justify;
-    margin: 0 15px 25px 15px;
+    margin: 0.3rem;
 }
 .portfolio .galeria .proyecto img{
     display: block;
