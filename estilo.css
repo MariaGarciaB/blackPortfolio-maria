@@ -311,7 +311,6 @@ body{
     justify-content: center;
     transition: 1s;
     font-size: 18px;
-    letter-spacing: 3px;
     opacity: 0;
 }
 .portfolio .galeria .proyecto .overlay h3{
