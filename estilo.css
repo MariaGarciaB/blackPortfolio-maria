@@ -495,11 +495,6 @@ footer .arriba{
     }
 }
 @media screen and (max-width:700px){
-    .contenido-banner{
-        display: flex; /* Utilizar flexbox */
-        align-items: center; /* Centrar verticalmente los elementos */
-        justify-content: center;
-    }
     .sobremi .fila{
         display: block;
     }
