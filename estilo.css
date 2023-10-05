@@ -61,7 +61,7 @@ html{
     url(img/fondo3.jpg);
     background-size: cover;
     height: 100%;
-    padding-bottom: 2rem;
+    padding-bottom: 1rem;
     padding-top: 5rem;
     color: #fff;
     display: flex;
@@ -72,6 +72,7 @@ html{
     background-color: #1e2326;
     max-width: 350px;
     margin: auto;
+    height: 100%;
     text-align: center;
     border-radius: 40px;
 }
