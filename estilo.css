@@ -39,7 +39,7 @@ body{
     display: flex;
     list-style: none;
 }
-.contenedor-header header nav ul li a{
+.contenedor-header header nav ul li{
     text-align: none;
     color: #fff;
     margin: 0 15px;
@@ -498,8 +498,8 @@ footer .arriba{
     }
     #descripcion{
         width: 97%;
-    }
-} */
+    }*/
+} 
 @media screen and (max-width:700px){
     .sobremi .fila{
         display: block;
